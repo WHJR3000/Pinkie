@@ -1,0 +1,51 @@
+#TS{
+    background:linear-gradient(to bottom right, purple , yellow, cyan , white , orange , pink); 
+}
+.unicorn {
+  background:linear-gradient(to bottom right, purple , yellow, cyan , white , orange , pink); 
+
+
+}
+#luna {
+background-color: darkblue;
+
+
+}
+#celestia {
+  background:linear-gradient(to bottom right, yellow , white  );
+}
+#fh {
+  background-color:purple; 
+}
+#cadance {
+  background-color: pink;
+}
+#ep {
+  background:linear-gradient(to bottom right, purple , yellow, cyan , white , orange , pink); 
+
+ 
+}   
+img {
+height: 250px;
+width: 250px;
+
+}
+
+.my_navbar {
+background-color: purple;
+position: sticky;
+top: 0;
+z-index:9999 ;
+}
+#pegasi{
+  background:linear-gradient(to bottom right, purple , yellow, cyan , white , orange , pink); 
+
+
+}
+
+.white{
+  color:White;
+}
+
+
+
